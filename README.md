@@ -1,5 +1,6 @@
 # Vrinda Store Annual Report 📊
-<img width="1516" height="924" alt="image" src="https://github.com/user-attachments/assets/2099c10d-d299-4398-bec9-2487299081de" />
+<img width="1501" height="609" alt="image" src="https://github.com/user-attachments/assets/3a0da6aa-71d7-409e-a620-b6a07d8a65b0" />
+
  
 
 **Welcome to my first Data Analyst project!**  
