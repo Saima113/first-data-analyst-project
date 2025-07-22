@@ -1,6 +1,6 @@
 # first-data-analyst-project
 <img width="1516" height="924" alt="image" src="https://github.com/user-attachments/assets/2099c10d-d299-4398-bec9-2487299081de" />
-### Vrinda Store Annual Report 📊
+ **Vrinda Store Annual Report 📊**
 
 **Welcome to my first Data Analyst project!**  
 This report summarizes the annual sales and order insights for Vrinda Store, created using Microsoft Excel. The dashboard combines visualizations such as bar charts, pie charts, and filters to help understand business performance and customer trends.
